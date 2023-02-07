@@ -1,0 +1,68 @@
+#topic{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    letter-spacing: 2px; 
+    font-size: xx-large;
+    margin-left :250px;
+    margin-right: 250px;
+    margin-top:50px;
+    border-style:double;
+    text-align: center;
+    padding: 40px;
+
+}
+
+#image{
+   border-style:groove;
+   height:300px;
+   width:250px;
+   border-radius: 50%;
+   margin-left:250px;
+   margin-right:50px;
+   float:left;
+}
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    text-align: center;
+    padding:10px;
+}
+
+
+
+#about{
+    margin-right:250px;
+}
+
+ul{
+    margin-left: 280px;
+    float:left;
+}
+
+li{
+    padding: 10px;
+    
+}
+
+#project{
+
+    display:inline-block;
+    /* margin:19.920 0 19.920 0 ; */
+    margin-left:50px;
+
+    
+}
+
+#tech{
+    float:left;
+}
+
+body{ background-image: url('https://img.freepik.com/free-vector/realistic-bokeh-background_52683-64201.jpg?w=2000');
+}
+
